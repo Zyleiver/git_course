@@ -1,4 +1,4 @@
-Im learning git
+I'm learning git
 
 and now i add a line
 
