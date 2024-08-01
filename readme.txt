@@ -9,3 +9,5 @@ try github push
 try branch maybe feature1
 
 try branch manage
+
+store changes before fix bug
